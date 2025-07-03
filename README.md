@@ -56,13 +56,12 @@ Dart Pratice/
 │
 ├── Assignment No 2/
 │ ├── Task1.dart # Marks & percentage
-│ ├── Task2.dart # Temperature conversion
 │ ├── ...
 │ └── Task15.dart # Days to weeks & days
 │
 └── README.md # This file
 
-=======
+
 # Dart-Learning
 This repository is for educational and practice purposes only. All tasks are solved with clear logic to help beginners learn Dart step by step.
 
