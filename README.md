@@ -49,6 +49,19 @@ This section includes **15 tasks**, each designed to help understand and apply k
 
 ## 🗂️ Folder Structure
 
+Dart Pratice/
+│
+├── Assignment No 1/
+│ └── Task1.dart # Introduction program
+│
+├── Assignment No 2/
+│ ├── Task1.dart # Marks & percentage
+│ ├── Task2.dart # Temperature conversion
+│ ├── ...
+│ └── Task15.dart # Days to weeks & days
+│
+└── README.md # This file
+
 =======
 # Dart-Learning
 This repository is for educational and practice purposes only. All tasks are solved with clear logic to help beginners learn Dart step by step.
