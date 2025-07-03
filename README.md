@@ -1,4 +1,4 @@
-# Dart Practice Assignments (No. 1 & 2)
+# Dart Practice Assignments
 
 This repository contains beginner-level Dart programming tasks, completed as part of Assignment No. 1 and Assignment No. 2. The assignments focus on building a strong foundation in Dart by covering concepts such as variables, expressions, conditionals, arithmetic operations, and logical thinking.
 
