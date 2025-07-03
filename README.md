@@ -49,3 +49,7 @@ This section includes **15 tasks**, each designed to help understand and apply k
 
 ## 🗂️ Folder Structure
 
+=======
+# Dart-Learning
+This repository is for educational and practice purposes only. All tasks are solved with clear logic to help beginners learn Dart step by step.
+
