@@ -46,7 +46,32 @@ This section includes **15 tasks**, each designed to help understand and apply k
 | Task 15  | Convert days into weeks and remaining days         |
 
 ---
+## 📁 Folder Structure
 
+```
+📁 dart-learning/
+├── 📁 Assignment No 1/
+│   └── Task1.dart                   → Personal Introduction
+│
+├── 📁 Assignment No 2/
+│   ├── Task1.dart                   → Total marks & percentage
+│   ├── Task2.dart                   → Celsius ↔ Fahrenheit
+│   ├── Task3.dart                   → Area of rectangle
+│   ├── Task4.dart                   → Arithmetic expression
+│   ├── Task5.dart                   → Logical AND / OR
+│   ├── Task6.dart                   → Robert’s result
+│   ├── Task7.dart                   → Swap values
+│   ├── Task8.dart                   → Average of 5 integers
+│   ├── Task9.dart                   → Max using ternary operator
+│   ├── Task10.dart                  → Simple Interest
+│   ├── Task11.dart                  → Square & Cube
+│   ├── Task12.dart                  → Minutes → Hours:Minutes
+│   ├── Task13.dart                  → Circle perimeter
+│   ├── Task14.dart                  → Sum of 3-digit number digits
+│   └── Task15.dart                  → Days → Weeks + Days
+│
+└── 📄 README.md
+```
 # Dart-Learning
 This repository is for educational and practice purposes only. All tasks are solved with clear logic to help beginners learn Dart step by step.
 
