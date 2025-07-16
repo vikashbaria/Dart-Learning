@@ -11,7 +11,7 @@ of two integers using a temporary variable.
   print('a = $a');
   print('b = $b');
 
-  // Swapping using temporary variable
+  // Swapping karenge
   int temp = a;
   a = b;
   b = temp;
