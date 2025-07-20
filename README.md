@@ -67,6 +67,41 @@ This assignment focuses on applying conditional statements, logical operators, a
 | Task 9   | ✅ **Self Task:** How to take user input in Dart using `stdin.readLineSync` |
 
 ---
+## 📘 Assignment No. 4: List & Loop Based Tasks in Dart
+
+This assignment focuses on using **Lists**, **Loops**, and basic **List methods** in Dart. These tasks are designed to strengthen your understanding of collections, iterations, and operations on data.
+
+### 📋 Task List
+
+| Task No. | Description                                                                 |
+|----------|-----------------------------------------------------------------------------|
+| Task 1   | Create a list of names and print all names using list                      |
+| Task 2   | Create a list of days and print only Sunday                                |
+| Task 3   | Create a list of name, class, roll no, grade, percentage and print record  |
+| Task 4   | Find the smallest and greatest number from a list of integers              |
+| Task 5   | Return the maximum value from a list using a loop                          |
+| Task 6   | Reverse a list of strings without changing the original list               |
+| Task 7   | Apply 15 different list methods (excluding `retainWhere`, `removeWhere`) using multiple lists |
+
+---
+
+### 💡 Topics Covered
+
+- Looping through lists using `for` loop  
+- Working with `sublist`, `reversed`, `shuffle`, etc.  
+- Using common list methods:
+  - `add`, `addAll`, `insert`, `remove`, `clear`, `indexOf`, `length`, `sort`, `contains`, `first`, `last`, `elementAt`, `removeAt`, `replaceRange`, `setAll`, `map`, `where`
+- Logical thinking and basic list operations
+
+---
+
+
+✅ Most of the important Dart List methods are demonstrated and implemented in this assignment.
+
+📂 All related Dart files are organized in the `/Dart-Learning/` directory for reference and practice.
+
+
+
 
 ## 📁 Folder Structure
 
@@ -102,6 +137,14 @@ This assignment focuses on applying conditional statements, logical operators, a
 │ ├── Task7.dart → Even or Odd check
 │ ├── Task8.dart → Multiple of 3 or 5
 │ └── SelfTask.dart → Taking user input
+├── 📁 Assignment No 4/
+│ ├── Task1.dart → Print names from list
+│ ├── Task2.dart → Print Sunday only
+│ ├── Task3.dart → Student record list
+│ ├── Task4.dart → Smallest & greatest in list
+│ ├── Task5.dart → Max from list using loop
+│ ├── Task6.dart → Reverse list (keep original)
+│ └── Task7.dart → 15 list methods demonstration
 │
 └── 📄 README.md
 ```
