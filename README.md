@@ -90,7 +90,7 @@ This assignment focuses on understanding and manipulating Dart `Map` objects, al
 This assignment focuses on working with Dart lists using loops, conditions, and built-in methods.
 
 
-| File Name     | Task Description                                                            |
+| File Name     | Task Description                                                             |
 |---------------|------------------------------------------------------------------------------|
 | `Task1.dart`  | Create a list of names                                                       |
 | `Task2.dart`  | Add days to an empty list                                                    |
@@ -120,18 +120,18 @@ This assignment focuses on working with Dart lists using loops, conditions, and 
 
 This assignment focuses on solving problems using `for` loops and `while` loops.
 
-| Q No. | Description                                                                   |
-|-------|-------------------------------------------------------------------------------|
-| Q1    | Fibonacci sequence using `for` loop                                           |
-| Q2    | Largest element in a list using `for` loop                                    |
-| Q3    | Multiplication table of a number using `for` loop                             |
-| Q4    | Palindrome check function                                                     |
-| Q5    | Right-angled triangle pattern with repeating numbers                          |
-| Q6    | Count vowels in a string using `for` loop and `if-else`                       |
-| Q7    | Count digits in a number using `while` loop                                   |
-| Q8    | Generate random password of given length using `while` loop                   |
-| Q9    | Multiplication table using `while` loop                                       |
-| Q10   | **Pattern printing task – Second Option Completed** ✅                         |
+| File Name     | Task Description                                                             |
+|---------------|------------------------------------------------------------------------------|
+| `Task1.dart`  | Fibonacci sequence using `for` loop                                          |
+| `Task2.dart`  | Largest element in a list using `for` loop                                   |
+| `Task3.dart`  | Multiplication table of a number using `for` loop                            |
+| `Task4.dart`  | Palindrome check function                                                    |
+| `Task5.dart`  | Right-angled triangle pattern with repeating numbers                         |
+| `Task6.dart`  | Count vowels in a string using `for` loop and `if-else`                      |
+| `Task7.dart`  | Count digits in a number using `while` loop                                  |
+| `Task8.dart`  | Generate random password of given length using `while` loop                  |
+| `Task9.dart`  | Multiplication table using `while` loo                                       |
+| `Task10.dart` | **Added Dart program to print multiplication table using while loop** ✅     |
 
 ---
 ## 📁 Folder Structure
@@ -202,7 +202,20 @@ This assignment focuses on solving problems using `for` loops and `while` loops.
 │   ├── Task21.dart       → Check if user is active admin
 │   └── Task22.dart       → Check if "Apple" exists in shopping cart map
 │
+├── 📁 Assignment No 6/
+│   ├── Task1.dart        → Fibonacci sequence using for loop
+│   ├── Task2.dart        → Largest element in a list
+│   ├── Task3.dart        → Multiplication table using for loop
+│   ├── Task4.dart        → Palindrome string check
+│   ├── Task5.dart        → Right angle triangle pattern with repeating numbers
+│   ├── Task6.dart        → Count vowels in a string using for loop & if-else
+│   ├── Task7.dart        → Count digits in a number using while loop
+│   ├── Task8.dart        → Random password generator using while loop
+│   ├── Task9.dart        → Multiplication table using while loop
+│   └── Task10.dart       → **Choice Task:** Any one from given two options
+│
 └── 📄 README.md
+
 ```
 # Dart-Learning
 This repository is for educational and practice purposes only. All tasks are solved with clear logic to help beginners learn Dart step by step.
