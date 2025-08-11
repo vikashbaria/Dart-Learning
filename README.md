@@ -114,7 +114,26 @@ This assignment focuses on working with Dart lists using loops, conditions, and 
 | `Task20.dart` | ✅ **Extra Task:** Sum all even numbers from a list                          |
 | `Task21.dart` | ✅ **Extra Task:** Reverse a list without using `reversed`                   |
 | `Task22.dart` | ✅ **Extra Task:** Find common elements in two lists                         |
+---
 
+## 📒 Assignment No. 6: Loop-Based Programming Tasks
+
+This assignment focuses on solving problems using `for` loops and `while` loops.
+
+| Q No. | Description                                                                   |
+|-------|-------------------------------------------------------------------------------|
+| Q1    | Fibonacci sequence using `for` loop                                           |
+| Q2    | Largest element in a list using `for` loop                                    |
+| Q3    | Multiplication table of a number using `for` loop                             |
+| Q4    | Palindrome check function                                                     |
+| Q5    | Right-angled triangle pattern with repeating numbers                          |
+| Q6    | Count vowels in a string using `for` loop and `if-else`                       |
+| Q7    | Count digits in a number using `while` loop                                   |
+| Q8    | Generate random password of given length using `while` loop                   |
+| Q9    | Multiplication table using `while` loop                                       |
+| Q10   | **Pattern printing task – Second Option Completed** ✅                         |
+
+---
 ## 📁 Folder Structure
 
 ```
