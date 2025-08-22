@@ -129,7 +129,7 @@ void createAccount() {
   bool isChild = (child == "y");
   users.add(User(email, password, phone, address, isSchoolChild: isChild));
   saveData();
-  colorPrint("✅ Account created successfully!\n", "green");
+  colorPrint("Account created successfully!\n", "green");
 }
 
 void login() {
@@ -181,7 +181,7 @@ void userPanel() {
 }
 
 void orderPizza() {
-  print("\n🍕 Available Pizzas:");
+  print("\n Available Pizzas:");
   print("1) Small - Rs. 250 (School Child Rs. 200)");
   print("2) Medium - Rs. 450 (School Child Rs. 400)");
   print("3) Large - Rs. 600 (School Child Rs. 550)");
@@ -259,7 +259,7 @@ void viewMyOrders() {
     colorPrint("No orders yet!", "yellow");
     return;
   }
-  print("\n🛒 Your Orders:");
+  print("\n Your Orders:");
   for (var o in loggedInUser!.orders) {
     print(
         "- ${o.pizzaSize} Pizza (Base: ${o.basePrice}, Final: ${o.finalPrice}) | Ordered at ${o.time}");
@@ -278,15 +278,15 @@ void adminPanel() {
     int choice = int.parse(stdin.readLineSync()!);
 
     if (choice == 1) {
-      print("👤 Total Registered Users: ${users.length}");
+      print(" Total Registered Users: ${users.length}");
     } else if (choice == 2) {
-      print("🛒 Total Orders: $totalOrders");
+      print(" Total Orders: $totalOrders");
     } else if (choice == 3) {
-      print("\n📊 Sales Report:");
+      print("\n Sales Report:");
       print("Small Pizzas Sold: ${pizzaCategoryCount['Small']}");
       print("Medium Pizzas Sold: ${pizzaCategoryCount['Medium']}");
       print("Large Pizzas Sold: ${pizzaCategoryCount['Large']}");
-      print("💰 Total Revenue: Rs. $totalRevenue");
+      print("Total Revenue: Rs. $totalRevenue");
     } else if (choice == 4) {
       break;
     } else {
@@ -317,7 +317,7 @@ void main() {
       login();
     } else if (choice == 3) {
       saveData();
-      colorPrint("Thank you for visiting Pizza Mizza! 🍕", "blue");
+      colorPrint("Thank you for visiting Pizza Mizza!", "blue");
       break;
     } else {
       colorPrint("Invalid choice!", "red");
