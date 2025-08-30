@@ -69,7 +69,7 @@ cd pizza-mizza
 dart run main.dart
 ```
 
-# 🎥 Demo Video
+### 🎥 Demo Video
 
 🎬 [Click here to watch demo video](https://github.com/vikashbaria/Dart-Learning/raw/refs/heads/main/Resturant%20System%20Pizzamizza/Pizza%20Mizza%20AppProject.mp4)
 
